@@ -20,6 +20,7 @@ background-color: #ff3600;
 color: #fff;
 display: block;
 float: left;
+padding: 20px;
 }
 
 .nav a{
@@ -35,9 +36,72 @@ list-style-type: none;
 display: block;
 float: left;
 padding: 0 20px 0 0;
+padding: 0 20px;
 }
 .nav{
 color: #ff3600;
 line-height: 60px;
 height: 60px;
+padding: 20px;
+}
+
+.main{
+max-width: 80%;
+display: block;
+float: left;
+}
+
+.sidebar{
+padding: 10px;
+max-width: 15%;
+display: block;
+float: left;
+border: 2px solid #999;
+padding: 10px;
+margin-bottom: 40px;
+}
+
+.sidebar h3{
+padding: 28px 0;
+}
+
+.content img{
+max-width: 100%;
+}
+.footer{
+    clear: both;
+}
+
+.content{
+padding: 60px;
+margin-bottom: 20px;
+}
+
+.main h2{
+padding: 20px 0;
+}
+
+.footer{
+margin-top: 30px;
+padding-top: 20px;
+line-height: 60px;
+height: 60px;
+padding: 20px;
+border-top: 2px solid #666;
+clear: both;
+
+.footer a{
+color: #ff3600;
+}
+}
+.footer ul{
+color: #ff3600;
+text-decoration: none;
+}
+
+.footer li{
+display: block;
+float: left;
+padding: 0 20px 0 0;
+padding: 0 20px;
 }
