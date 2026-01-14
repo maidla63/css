@@ -18,7 +18,7 @@ body {
 
 .banner {
     height: 580px;
-    background-image: url("pilt1.png");
+    background-image: url("css/pilt1.png");
     background-size: cover;
     background-position: center;
     padding: 40px;
