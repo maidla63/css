@@ -18,11 +18,7 @@ body {
 
 .banner {
     height: 580px;
-<<<<<<< HEAD
     background-image: url("pilt1.png");
-=======
-    background-image: url("img/coolbackgrounds-particles-stellar.png");
->>>>>>> 1137ca194bab7958193f6d0f647df9345acb6d2b
     background-size: cover;
     background-position: center;
     padding: 40px;
