@@ -18,7 +18,7 @@ body {
     overflow: hidden; 
 }
 
-/* BANNER */
+
 .banner {
     height: 580px;
     width: 100%;
@@ -29,10 +29,10 @@ body {
     padding: 40px;
 }
 
-/* MENÜÜ */
+
 .menu {
     position: absolute;
-    bottom: 40px;
+    top: 40px;
     right: 40px;
 }
 
